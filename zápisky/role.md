@@ -1,3 +1,4 @@
+# Vývoj
 - designer
 - vývojář back-end
 	- CGI
@@ -15,3 +16,8 @@
 - tester etický hacking
 - UI review
 - code review
+
+# V produkci
+- redakce
+- administrativa
+- uživatel (plnič dat)
