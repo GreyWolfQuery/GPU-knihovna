@@ -21,4 +21,4 @@
 - redakce
 - administrativa
 - uživatel (plnič dat)
-- zaznamenávání knih do plné verze knihovny
+- zaznamenávání knih (role platí do konce hlavního vývoje knihovny)
